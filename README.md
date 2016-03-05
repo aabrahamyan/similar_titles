@@ -28,7 +28,7 @@ latest SDK CoreLocation methods are used.
   
 ## Structure
 
-Project contains 2 target, SimilarTitles and Jaccard (framework). Separation is done in terms of modularity and reusability.
+Project contains 2 targets, SimilarTitles and Jaccard (framework). Separation is done in terms of modularity and reusability.
 
 ## Requirements
 - iOS Deployment Target: 9.1
